@@ -11,7 +11,7 @@ import Obras from "./components/Obras";
 import Contacto from "./components/Contacto";
 
 const WHATSAPP_URL =
-  "https://wa.me/5493875510713?text=Hola%20David%2C%20vi%20la%20p%C3%A1gina%20de%20Servicios%20Profesionales%20y%20quisiera%20solicitar%20un%20presupuesto.";
+  "https://wa.me/3875107130?text=Hola%20David%2C%20vi%20la%20p%C3%A1gina%20de%20Servicios%20Profesionales%20y%20quisiera%20solicitar%20un%20presupuesto.";
 
 function TextoEscribiendo() {
   const texto = "Transformamos tus espacios";

@@ -4,11 +4,11 @@ import Image from "next/image";
 import { motion } from "motion/react";
 
 const WHATSAPP_URL =
-  "https://wa.me/5493875510713?text=Hola%20David%2C%20vi%20la%20p%C3%A1gina%20de%20Servicios%20Profesionales%20y%20quisiera%20solicitar%20un%20presupuesto.";
+  "https://wa.me/3875107130?text=Hola%20David%2C%20vi%20la%20p%C3%A1gina%20de%20Servicios%20Profesionales%20y%20quisiera%20solicitar%20un%20presupuesto.";
 
 
 
-const TARJETA_URL = "/tarjeta-servicios-profesionales.png";
+const TARJETA_URL = "/tarjeta.png";
 
 export default function Contacto() {
   const descargarTarjeta = () => {
@@ -86,7 +86,7 @@ export default function Contacto() {
           {/* Datos */}
           <div className="mt-8 grid gap-3 sm:grid-cols-2">
             <a
-              href="tel:+5493875510713"
+              href="tel:3875107130"
               className="group rounded-2xl border border-gray-200 bg-white p-4 transition hover:border-[#F5B700] hover:shadow-lg"
             >
               <span className="text-xs font-bold uppercase tracking-wider text-gray-400">
@@ -94,7 +94,7 @@ export default function Contacto() {
               </span>
 
               <p className="mt-1 font-bold text-[#171A1F] group-hover:text-[#B98300]">
-                +54 9 387 551-0713
+                387 51-07130
               </p>
             </a>
 
